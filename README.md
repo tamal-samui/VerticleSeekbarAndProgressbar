@@ -16,7 +16,7 @@ void	setProgressBarColor(int color)
 
 void	setThumbColor(int color) 
 <br/>
-<img height="450" src="https://github.com/tamalsamui/CustomAnimatingCalendar/blob/master/pics/screen_capture.gif" />
+<img height="450" src="https://github.com/tamalsamui/VerticleSeekbarAndProgressbar/blob/master/pics/screen_capture.gif" />
 <br/>
 ## License
 
